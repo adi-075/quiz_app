@@ -1,16 +1,29 @@
 # quiz_app
 
-A new Flutter Quiz App.
+A Flutter Quiz App.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project contains a quiz app which will judge you based on your score. 
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+<b>Some Screenshots from the app.</b>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+|Question 1|Question 2|Question 3|
+|-|-|-|
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|![img](https://raw.githubusercontent.com/adi-075/quiz_app/master/img1.jpg)|![img](https://raw.githubusercontent.com/adi-075/quiz_app/master/img2.jpg)|![img](https://raw.githubusercontent.com/adi-075/quiz_app/master/img3.jpg)|
+
+## Installation
+Download as a Zip File
+
+```
+https://github.com/adi-075/quiz_app/archive/refs/tags/v1.0.zip
+```
+
+### References
+- [Flutter](https://docs.flutter.dev)
+
+
+- [Android Studio](https://developer.android.com/studio)
+
