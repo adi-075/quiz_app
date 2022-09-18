@@ -15,7 +15,7 @@ Some Screenshots from the app.
 
 <img src=https://raw.githubusercontent.com/adi-075/quiz_app/master/img2.jpg width="400" height="450">
 
-<img src= https://raw.githubusercontent.com/adi-075/quiz_app/master/img3.jpg width="400" height="450">
+
 
 
 <i><b> Result: </b></i>
